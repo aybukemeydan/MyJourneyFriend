@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Journey Friend</string>
+    <string name="action_settings">Delete all items</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_edit_time_alarm">EditTimeAlarm</string>
+    <string name="channel_name">Uyandırma Bildirimi</string>
+    <string name="channel_description">Bildirim</string>
+    <string name="bir_alarm_melodisi_se_iniz">Bir alarm melodisi seçiniz</string>
+    <string name="alarm_melodisi">Alarm Melodisi</string>
+    <string name="next">Next</string>
+    <string name="enter_min">enter min..</string>
+</resources>
